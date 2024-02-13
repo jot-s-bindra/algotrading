@@ -20,7 +20,7 @@ The hackathon problem statement revolved around real-time trading strategies.
 
 ### Model Training:
 - We used an XGBoost Classifier for training, excluding provided features like open, close, high, low, and volume.
-- Achieved an approximate accuracy of 96%.
+- Achieved an approximate accuracy of 83%.
 
 ### Backtesting Results:
 - Evaluated model performance through various metrics.
